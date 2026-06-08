@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/3977891868_1937817470_223132457.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_2420530889_2869077750.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_63670083_3829017981.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_862004760_1277035811.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_1907419307_2281573776.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_181848024_2368116514.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_358648267_1226808339.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_590817441_3886936318.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_890446129_469576118.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_2401967559_211595390.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/TriangleAndHeightScene/2852726489_2766954708_2959984062.mp4'

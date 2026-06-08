@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/IntroScene/3977891868_3391555284_223132457.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/IntroScene/2852726489_875795383_1705123915.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/IntroScene/2852726489_1157417990_3326071843.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/IntroScene/2852726489_1839128356_2281688220.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/IntroScene/2852726489_1542322325_3730101751.mp4'
+file 'file:E:/programming/rickphobia_tutor/media/videos/testing/1080p60/partial_movie_files/IntroScene/2852726489_2831836396_370467827.mp4'
